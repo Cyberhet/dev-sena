@@ -60,13 +60,3 @@ Each signup shows its current eligibility state without revealing your friend's 
 
 All 3 signups: 1 qualified · 2 limited access. Only qualified and limited-access signups count toward your score.
 
-11/07/2026
-They activated with limited access. This counts toward your referral score and rank, but only full-access activations earn Freebucks.
-
-Limited access
-11/07/2026
-They passed the GitHub age check and activated with full access. Worth 15 Freebucks once — cash it out above while your account is on full access.
-
-Qualified
-11/07/2026
-They activated with limited access. This counts toward your referral score and rank, but only full-access activations earn Freebucks.
